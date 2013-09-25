@@ -1,0 +1,7 @@
+--consumer-key M6r3nWKpJHYtfV3HXHC7lw
+--consumer-secret aDJPwfqmIHbUuyrdm7bLzN8HVAZiLVMIiVFSwGk7aM
+--access-token 139882206-gZIj9BXNJIH70fNCUv4hWKRuM9tmKaBEENXVPWUE
+--access-secret MUjSiNmBeOnJJwP8nt6Euc1GLzN00IeHTWntF8MA
+--db mongodb://cake:cube@127.0.0.1:27017/test
+--user mcmhav
+-v
